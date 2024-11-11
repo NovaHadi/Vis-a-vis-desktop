@@ -1,2 +1,4 @@
 # Vis-a-vis-desktop
 Face components replacement
+
+Vis-a-vis is a tool that can replace one or more specific facial components in images for face analysis. The tool can replace the texture and shape of facial components such as eyes, nose, and mouth. The source and destination of the components can be real faces or an average face computed from a dataset. A seamless method is applied to smoothen the component boundaries after replacement. The tool is developed using the Python language and is available in open source and online, with a web interface. We also provide a desktop version that can manage multiple files or a dataset as input. The tool can, for instance, be used to investigate the contribution of face components to face recognition, face perception analysis, the change of identity, and fun applications.
